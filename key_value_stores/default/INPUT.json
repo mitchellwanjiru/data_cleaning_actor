@@ -1,5 +1,5 @@
 {
   "dataFile": "sample.csv",
   "columnsToAnalyze": [],
-  "summaryType": "correlations"
+  "summaryType": "charts"
 }
