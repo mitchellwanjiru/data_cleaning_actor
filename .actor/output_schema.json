@@ -1,0 +1,21 @@
+{
+    "actorOutputSchemaVersion": 1,
+    "title": "Output schema of the data_cleaning_actor",
+    "properties": {
+        "cleanedFile": {
+            "type": "string",
+            "title": "Cleaned CSV File",
+            "template": "{{links.apiDefaultKeyValueStoreUrl}}/cleaned.csv"
+        },
+        "summaryJson": {
+            "type": "string",
+            "title": "JSON Summary",
+            "template": "{{links.apiDefaultKeyValueStoreUrl}}/summary.json"
+        },
+        "plotImage": {
+            "type": "string",
+            "title": "Plot Image",
+            "template": "{{links.apiDefaultKeyValueStoreUrl}}/plot.png"
+        }
+    }
+}

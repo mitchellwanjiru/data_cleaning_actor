@@ -1,0 +1,28 @@
+{
+    "actorSpecification": 1,
+    "fields": {
+        "column": { "type": "string", "label": "Column" },
+        "mean": { "type": "number", "label": "Mean" },
+        "median": { "type": "number", "label": "Median" },
+        "missing": { "type": "number", "label": "Missing Values" },
+        "correlation": { "type": "object", "label": "Correlations" }
+    },
+    "views": {
+        "overview": {
+            "title": "Overview",
+            "transformation": {
+                "fields": ["column", "mean", "median", "missing", "correlation"]
+            },
+            "display": {
+                "component": "table",
+                "properties": {
+                    "column": { "label": "Column", "format": "text" },
+                    "mean": { "label": "Mean", "format": "number" },
+                    "median": { "label": "Median", "format": "number" },
+                    "missing": { "label": "Missing Values", "format": "number" },
+                    "correlation": { "label": "Correlations", "format": "object" }
+                }
+            }
+        }
+    }
+}

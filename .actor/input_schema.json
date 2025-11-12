@@ -1,0 +1,29 @@
+{
+    "title": "Input schema of the data_cleaning_actor",
+    "type": "object",
+    "schemaVersion": 1,
+    "properties": {
+        "dataFile": {
+            "title": "Data File",
+            "type": "string",
+            "description": "Upload a CSV or Excel file.",
+            "editor": "file",
+            "pattern": ".*\\.(csv|xlsx)$"
+        },
+        "columnsToAnalyze": {
+            "title": "Columns to Analyze",
+            "type": "array",
+            "description": "Optional: List of columns to include in analysis.",
+            "items": { "type": "string" },
+            "editor": "stringList",
+            "default": []
+        },
+        "summaryType": {
+            "title": "Summary Type",
+            "type": "string",
+            "description": "Type of summary to generate.",
+            "enum": ["stats", "correlations", "charts"],
+            "default": "stats"
+        }
+    }
+}

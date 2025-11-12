@@ -1,0 +1,5 @@
+{
+  "dataFile": "sample.csv",
+  "columnsToAnalyze": [],
+  "summaryType": "correlations"
+}
