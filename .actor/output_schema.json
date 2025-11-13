@@ -7,15 +7,40 @@
             "title": "Cleaned CSV File",
             "template": "{{links.apiDefaultKeyValueStoreUrl}}/cleaned.csv"
         },
+        "cleanedExcel": {
+            "type": "string",
+            "title": "Cleaned Excel File",
+            "template": "{{links.apiDefaultKeyValueStoreUrl}}/cleaned.xlsx"
+        },
         "summaryJson": {
             "type": "string",
             "title": "JSON Summary",
             "template": "{{links.apiDefaultKeyValueStoreUrl}}/summary.json"
         },
-        "plotImage": {
+        "outlierReport": {
             "type": "string",
-            "title": "Plot Image",
-            "template": "{{links.apiDefaultKeyValueStoreUrl}}/plot.png"
+            "title": "Outlier Report",
+            "template": "{{links.apiDefaultKeyValueStoreUrl}}/outliers.json"
+        },
+        "dataTypeSummary": {
+            "type": "string",
+            "title": "Data Type Summary",
+            "template": "{{links.apiDefaultKeyValueStoreUrl}}/data_types.json"
+        },
+        "boxplotImage": {
+            "type": "string",
+            "title": "Boxplot Image",
+            "template": "{{links.apiDefaultKeyValueStoreUrl}}/boxplot.png"
+        },
+        "scatterPlotImage": {
+            "type": "string",
+            "title": "Scatter Plot Image",
+            "template": "{{links.apiDefaultKeyValueStoreUrl}}/scatter.png"
+        },
+        "barChartImage": {
+            "type": "string",
+            "title": "Bar Chart Image",
+            "template": "{{links.apiDefaultKeyValueStoreUrl}}/barchart.png"
         }
     }
 }
