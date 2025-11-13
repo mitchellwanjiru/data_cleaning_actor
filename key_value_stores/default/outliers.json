@@ -1,0 +1,363 @@
+{
+  "Vegetative Growth": [
+    5198,
+    294,
+    657,
+    780,
+    1244,
+    2355,
+    9097,
+    33810,
+    981
+  ],
+  "Flowering": [
+    77608
+  ],
+  "Grain Filling & Maturity": [
+    31069,
+    50632,
+    27951,
+    23680,
+    23770,
+    24208,
+    40902,
+    30060,
+    22667
+  ],
+  "Establishment": [
+    75,
+    608,
+    540,
+    267,
+    254,
+    13979,
+    325,
+    2127
+  ],
+  "Germination": [
+    1
+  ],
+  "Seedling": [
+    57
+  ],
+  "Physiological Maturity": [],
+  "Seedling stage": [
+    103011,
+    34215,
+    90992,
+    37087,
+    77456,
+    99606,
+    97684,
+    47693,
+    185215,
+    97261,
+    105296
+  ],
+  "Seedling & Establishment": [
+    4,
+    30,
+    15,
+    5,
+    1,
+    33,
+    19,
+    5
+  ],
+  "Maize_Vegetative Growth": [],
+  "Maize_Flowering": [
+    77501
+  ],
+  "Maize_Grain Filling & Maturity": [
+    31069,
+    50629,
+    27951,
+    23664,
+    21948,
+    22255,
+    40901,
+    30060,
+    20761
+  ],
+  "Maize_Establishment": [
+    75,
+    581,
+    540,
+    3,
+    1,
+    249,
+    1,
+    13963,
+    321,
+    2127
+  ],
+  "Maize_Germination": [],
+  "Maize_Seedling": [],
+  "Maize_Physiological Maturity": [],
+  "Maize_Seeding stage": [
+    103011,
+    34215,
+    90992,
+    37087,
+    77456,
+    99606,
+    97684,
+    47693,
+    185215,
+    97261,
+    105296
+  ],
+  "Maize_Seedling & Establishment": [],
+  "Potatoes_Vegetative Growth": [
+    5194,
+    278,
+    577,
+    570,
+    44,
+    9071,
+    33456,
+    9,
+    968
+  ],
+  "Potatoes_Flowering": [
+    11853,
+    2296,
+    21560,
+    28116,
+    6341,
+    4730,
+    22472
+  ],
+  "Potatoes_Grain Filling & Maturity": [],
+  "Potatoes_Establishment": [],
+  "Potatoes_Germination": [],
+  "Potatoes_Seedling": [],
+  "Potatoes_Physiological Maturity": [
+    628,
+    264,
+    544,
+    307,
+    2373,
+    417,
+    591
+  ],
+  "Potatoes_Seedling stage": [],
+  "Potatoes_Seedling & Establishment": [],
+  "Sorghum_Vegetative Growth": [],
+  "Sorghum_Flowering": [
+    63,
+    34,
+    466,
+    169,
+    285,
+    10,
+    178,
+    582,
+    17,
+    231
+  ],
+  "Sorghum_Grain Filling & Maturity": [
+    363,
+    299,
+    104,
+    5952,
+    1811,
+    1924,
+    75,
+    895,
+    302,
+    1896
+  ],
+  "Sorghum_Establishment": [],
+  "Sorghum_Germination": [
+    1
+  ],
+  "Sorghum_Seedling": [],
+  "Sorghum_Physiological Maturity": [
+    659,
+    766,
+    5554,
+    708,
+    1102,
+    4607,
+    1098,
+    567,
+    1913
+  ],
+  "Sorghum_Seedling stage": [],
+  "Sorghum_Seedling & Establishment": [
+    4,
+    30,
+    15,
+    5,
+    1,
+    33,
+    19,
+    5
+  ],
+  "Sunflower_Vegetative Growth": [],
+  "Sunflower_Flowering": [],
+  "Sunflower_Grain Filling & Maturity": [
+    251,
+    1,
+    1,
+    13,
+    1
+  ],
+  "Sunflower_Establishment": [],
+  "Sunflower_Germination": [],
+  "Sunflower_Seedling": [],
+  "Sunflower_Physiological Maturity": [],
+  "Sunflower_Seedling stage": [],
+  "Sunflower_Seedling & Establishment": [],
+  "Green gram_Vegetative Growth": [
+    80,
+    41,
+    780,
+    646,
+    2354,
+    28,
+    46
+  ],
+  "Green gram_Flowering": [
+    1617,
+    849,
+    37106,
+    309,
+    22562,
+    1807,
+    37382,
+    486,
+    418,
+    247
+  ],
+  "Green gram_Grain Filling & Maturity": [],
+  "Green gram_Establishment": [
+    16
+  ],
+  "Green gram_Germination": [],
+  "Green gram_Seedling": [],
+  "Green gram_Physiological Maturity": [],
+  "Green gram_Seedling stage": [],
+  "Green gram_Seedling & Establishment": [],
+  "Finger Millet_Vegetative Growth": [],
+  "Finger Millet_Flowering": [
+    2,
+    1,
+    11,
+    1
+  ],
+  "Finger Millet_Grain Filling & Maturity": [
+    1,
+    2,
+    4,
+    1
+  ],
+  "Finger Millet_Establishment": [],
+  "Finger Millet_Germination": [],
+  "Finger Millet_Seedling": [],
+  "Finger Millet_Physiological Maturity": [
+    89,
+    256,
+    9,
+    39,
+    2318,
+    17,
+    27,
+    3
+  ],
+  "Finger Millet_Seedling stage": [],
+  "Finger Millet_Seedling & Establishment": [],
+  "Cowpeas_Vegetative Growth": [
+    16,
+    28,
+    7,
+    326,
+    29,
+    2,
+    1
+  ],
+  "Cowpeas_Flowering": [
+    1,
+    20,
+    1,
+    11,
+    1,
+    1
+  ],
+  "Cowpeas_Grain Filling & Maturity": [
+    1,
+    1,
+    10,
+    1,
+    10,
+    1,
+    1
+  ],
+  "Cowpeas_Establishment": [],
+  "Cowpeas_Germination": [],
+  "Cowpeas_Seedling": [
+    57
+  ],
+  "Cowpeas_Physiological Maturity": [
+    961,
+    76,
+    2738,
+    82,
+    567,
+    54,
+    72,
+    41
+  ],
+  "Cowpeas_Seedling stage": [],
+  "Cowpeas_Seedling & Establishment": [],
+  "Cowpeas leaves_Vegetative Growth": [],
+  "Cowpeas leaves_Flowering": [
+    1,
+    7
+  ],
+  "Cowpeas leaves_Grain Filling & Maturity": [],
+  "Cowpeas leaves_Establishment": [],
+  "Cowpeas leaves_Germination": [],
+  "Cowpeas leaves_Seedling": [],
+  "Cowpeas leaves_Physiological Maturity": [],
+  "Cowpeas leaves_Seedling stage": [],
+  "Cowpeas leaves_Seedling & Establishment": [],
+  "Cassava_Vegetative Growth": [
+    2,
+    8,
+    4,
+    7,
+    1,
+    4,
+    110,
+    1,
+    5
+  ],
+  "Cassava_Flowering": [],
+  "Cassava_Grain Filling & Maturity": [],
+  "Cassava_Establishment": [
+    15,
+    37,
+    27,
+    16,
+    21,
+    37,
+    18,
+    254
+  ],
+  "Cassava_Germination": [],
+  "Cassava_Seedling": [],
+  "Cassava_Physiological Maturity": [],
+  "Cassava_Seedling stage": [],
+  "Cassava_Seedling & Establishment": [],
+  "Sweet Sorghum_Vegetative Growth": [],
+  "Sweet Sorghum_Flowering": [],
+  "Sweet Sorghum_Grain Filling & Maturity": [],
+  "Sweet Sorghum_Establishment": [],
+  "Sweet Sorghum_Germination": [],
+  "Sweet Sorghum_Seedling": [],
+  "Sweet Sorghum_Physiological Maturity": [],
+  "Sweet Sorghum_Seedling stage": [],
+  "Sweet Sorghum_Seedling & Establishment": []
+}
